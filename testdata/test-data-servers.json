@@ -1,0 +1,43 @@
+{
+    "servers": {
+        "1": {
+            "name":"Testipalvelin",
+            "icon":"cat-icon.PNG",
+            "settings": {},
+            "owner":0,
+            "channels":[
+                
+            ]
+        },
+
+        "2": {
+            "name":"Testipalvelin",
+            "icon":"cat-icon.PNG",
+            "settings": {},
+            "owner":0,
+            "channels":[
+                
+            ]
+        },
+
+        "3": {
+            "name":"Testipalvelin",
+            "icon":"cat-icon.PNG",
+            "settings": {},
+            "owner":0,
+            "channels":[
+                
+            ]
+        },
+
+        "4": {
+            "name":"Testipalvelin",
+            "icon":"cat-icon.PNG",
+            "settings": {},
+            "owner":0,
+            "channels":[
+                
+            ]
+        }
+    }
+}

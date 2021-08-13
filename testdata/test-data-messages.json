@@ -1,0 +1,31 @@
+{
+    "messages": {
+        "1": {
+            "ownerID":1,
+            "serverID":1,
+            "channelID": 1,
+            "message":"Moi kaikki nassukat!"
+        },
+
+        "2": {
+            "ownerID":1,
+            "serverID":1,
+            "channelID": 1,
+            "message":"Moi kaikki nassukat!"
+        },
+
+        "3": {
+            "ownerID":1,
+            "serverID":1,
+            "channelID": 1,
+            "message":"Moi kaikki nassukat!"
+        },
+
+        "4": {
+            "ownerID":1,
+            "serverID":1,
+            "channelID": 1,
+            "message":"Moi kaikki nassukat!"
+        }
+    }
+}
